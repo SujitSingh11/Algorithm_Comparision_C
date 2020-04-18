@@ -1,0 +1,42 @@
+ ___________________________________________________________________________________________________
+|                                                                                                   |
+|      Algorithm        No. of Items       Case          Iteration      Comparision      Moves      |
+|___________________________________________________________________________________________________|
+|                                                                                                   |
+|      Insertion Sort      10             Sorted         10             9              0            ||                                                                                                   |
+|      Bubble Sort         10             Sorted         9              45             0            ||                                                                                                   |
+|      Bubble Sort(E)      10             Sorted         1              9              0            ||                                                                                                   |
+|      Quick Sort          10             Sorted         9              92             9            ||                                                                                                   |
+|      Insertion Sort      10             Reverse        10             45             45           ||                                                                                                   |
+|      Bubble Sort         10             Reverse        9              45             45           ||                                                                                                   |
+|      Bubble Sort(E)      10             Reverse        9              45             45           ||                                                                                                   |
+|      Quick Sort          10             Reverse        9              82             13           ||                                                                                                   |
+|      Insertion Sort      10             Average        10             41             34           ||                                                                                                   |
+|      Bubble Sort         10             Average        9              45             34           ||                                                                                                   |
+|      Bubble Sort(E)      10             Average        7              42             34           ||                                                                                                   |
+|      Quick Sort          10             Average        8              60             13           ||                                                                                                   |
+|      Insertion Sort      25             Sorted         25             24             0            ||                                                                                                   |
+|      Bubble Sort         25             Sorted         24             300            0            ||                                                                                                   |
+|      Bubble Sort(E)      25             Sorted         1              24             0            ||                                                                                                   |
+|      Quick Sort          25             Sorted         24             602            24           ||                                                                                                   |
+|      Insertion Sort      25             Reverse        25             300            300          ||                                                                                                   |
+|      Bubble Sort         25             Reverse        24             300            300          ||                                                                                                   |
+|      Bubble Sort(E)      25             Reverse        24             300            300          ||                                                                                                   |
+|      Quick Sort          25             Reverse        24             570            35           ||                                                                                                   |
+|      Insertion Sort      25             Average        25             207            186          ||                                                                                                   |
+|      Bubble Sort         25             Average        24             300            186          ||                                                                                                   |
+|      Bubble Sort(E)      25             Average        23             299            186          ||                                                                                                   |
+|      Quick Sort          25             Average        19             279            42           ||                                                                                                   |
+|      Insertion Sort      50             Sorted         50             49             0            ||                                                                                                   |
+|      Bubble Sort         50             Sorted         49             1225           0            ||                                                                                                   |
+|      Bubble Sort(E)      50             Sorted         1              49             0            ||                                                                                                   |
+|      Quick Sort          50             Sorted         49             2452           49           ||                                                                                                   |
+|      Insertion Sort      50             Reverse        50             1225           1225         ||                                                                                                   |
+|      Bubble Sort         50             Reverse        49             1225           1225         ||                                                                                                   |
+|      Bubble Sort(E)      50             Reverse        49             1225           1225         ||                                                                                                   |
+|      Quick Sort          50             Reverse        49             2382           73           ||                                                                                                   |
+|      Insertion Sort      50             Average        50             702            655          ||                                                                                                   |
+|      Bubble Sort         50             Average        49             1225           655          ||                                                                                                   |
+|      Bubble Sort(E)      50             Average        49             1225           655          ||                                                                                                   |
+|      Quick Sort          50             Average        35             997            85           |
+|___________________________________________________________________________________________________|
